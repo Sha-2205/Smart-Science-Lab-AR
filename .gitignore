@@ -1,0 +1,29 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+.vs/
+.idea/
+
+# Visual Studio / Rider generated files
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+
+# Unity generated files
+*.pidb
+*.booproj
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local device/debug files
+device_logcat.txt
+
+.utmp/
